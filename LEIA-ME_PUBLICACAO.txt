@@ -1,0 +1,21 @@
+WALISON LOPES OFICIAL — PACOTE DO SITE
+
+1) O domínio desejado é: walisonlopesoficial.com.br
+2) O arquivo CNAME já está configurado para esse domínio.
+3) O domínio não é registrado automaticamente por este pacote. O registro precisa ser feito pelo titular no Registro.br.
+4) O site é estático e pode ser publicado no GitHub Pages, Cloudflare Pages, Netlify ou hospedagem tradicional.
+5) O site inclui index.html, contratacao.html, CSS, imagens do release e o PDF original.
+6) A área de música não inventa arquivos de áudio: o release fornece os nomes dos projetos, mas não fornece arquivos de áudio. Os botões levam às plataformas informadas.
+
+PUBLICAÇÃO NO GITHUB PAGES:
+- Crie um repositório para o site.
+- Envie todos os arquivos deste pacote para a raiz do repositório.
+- Ative Settings > Pages.
+- Em Custom domain, informe walisonlopesoficial.com.br.
+- No Registro.br, configure o DNS conforme os registros indicados pelo GitHub Pages para o repositório.
+- Ative HTTPS quando disponibilizado.
+
+IMPORTANTE:
+- Primeiro registre o domínio no Registro.br.
+- Não compartilhe senha do Registro.br ou GitHub.
+- O DNS pode levar algumas horas para propagar.
